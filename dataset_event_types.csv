@@ -1,0 +1,256 @@
+Movie,Event,Event Type,Start Time,End Time
+Notting Hill,"William Thacker owns a travel book store in Notting Hill, London.",stative_event,00:05:20,00:05:30
+Notting Hill,"Divorced, Will shares a flat with Spike, a flaky and sloppy Welshman.",stative_event,00:03:40,00:03:44
+Notting Hill,"One day, famous Hollywood actress Anna Scott enters the shop and buys a book.",process,00:06:26,00:09:18
+Notting Hill,"Shortly after she leaves,Will bumps into her while rounding a street corner,spilling his juice on her.",process,00:11:32,00:11:40
+Notting Hill,He takes Anna to his flat that is directly across the street,process,00:12:14,00:12:16
+Notting Hill,that is directly across the street so she can change into something clean.,process,00:13:05,00:13:12
+Notting Hill,"When leaving, she impulsively kisses him.",process,00:15:56,00:16:11
+Notting Hill,Anna later invites him to visit her at the Ritz Hotel.,process,00:22:45,00:22:50
+Notting Hill,Upon his arrival he is mistaken for a reporter and ushered into a press junket for her new film.,process,00:24:36,00:24:56
+Notting Hill,"When asked, he says he writes for Horse & Hound magazine.",process,00:25:06,00:25:15
+Notting Hill,Anna asks to be William's date at his sister's birthday party later that evening.,process,00:34:23,00:34:30
+Notting Hill,"Though his friends and family are surprised,",process,00:35:30,00:36:20
+Notting Hill,Anna gets on well with everyone and enjoys herself.,process,00:38:00,00:44:56
+Notting Hill,"Later, the two enter a private neighbourhood park,",process,00:47:45,00:48:14
+Notting Hill,where Anna again kisses Will.,process,00:48:18,00:48:27
+Notting Hill,"At a restaurant the next day, Will and Anna overhear six men at a nearby table discussing her, first praising and then disparaging her and equating actresses to prostitutes.",process,00:51:23,00:52:24
+Notting Hill,"Will confronts them,",process,00:52:27,00:52:56
+Notting Hill,then she introduces herself and calmly insults the stunned foursome.,process,00:53:12,00:53:31
+Notting Hill,"Anna invites Will to her hotel room,",process,00:54:02,00:54:29
+Notting Hill,"but he quickly leaves after discovering that her movie star boyfriend, Jeff King, has unexpectedly arrived from America.",process,00:54:52,00:57:21
+Notting Hill,"Over the next six months, Will's friends arrange a series of dates for him,",process,01:01:42,01:04:03
+Notting Hill,"but Will, unable to forget Anna, is uninterested in another relationship.",process,01:04:20,01:06:09
+Notting Hill,"One day, a distraught Anna appears at Will's doorstep, needing to hide from a tabloid scandal.",process,01:06:41,00:06:56
+Notting Hill,She apologises about King and says their relationship is over.,process,01:09:39,01:10:20
+Notting Hill,"They discover shared interests, and discuss Will's print of Marc Chagall's 1950 painting La Mariée.",process,01:12:42,01:15:50
+Notting Hill,They make love that night.,process,01:18:31,01:19:25
+Notting Hill,"The next morning, paparazzi, inadvertently tipped off by Spike, besiege the house and take photos of Will, Anna, and a half-dressed Spike at the front door.",process,01:22:14,01:23:05
+Notting Hill,"Furious, she blames Will and leaves.",process,01:24:32,01:27:18
+Notting Hill,"Several seasons pass, and Will remains miserable.",change_of_state,01:28:35,01:29:30
+Notting Hill,"When he discovers Anna is back in London making a film based on a Henry James novel, something?he?had?suggested,",process,01:30:05,01:30:15
+Notting Hill,he visits the set unannounced.,process,01:34:49,01:35:40
+Notting Hill,"She asks him to wait until shooting is done,",process,01:36:27,01:36:29
+Notting Hill,but he leaves,process,01:39:01,01:39:15
+Notting Hill,after overhearing her being dismissive about him to another actor.,process,01:38:17,01:38:32
+Notting Hill,"Anna comes to the bookshop the next day, bringing a 
+wrapped gift.",process,01:39:49,01:40:53
+Notting Hill,Will says he overheard what she said about him to her co-star.,process,01:42:24,01:42:30
+Notting Hill,"She explains that she was merely keeping her personal
+life private from another actor.",process,01:42:37,01:42:44
+Notting Hill,"She proclaims that she loves him, 
+and pleads to rekindle their relationship.",process,01:42:16,01:42:20
+Notting Hill,"Will says no, explaining he would be too hurt if she left him again.",process,01:44:27,01:46:48
+Notting Hill,"Will meets his friends and sister at a restaurant with Anna's 
+partly opened gift: Chagall's original La Mariée (""The Bride"").",process,01:47:07,01:47:08
+Notting Hill,They half-heartedly support his decision about Anna,process,01:47:12,01:47:34
+Notting Hill,"until Spike arrives and calls him a ""daft prick"".",process,01:47:35,01:47:44
+Notting Hill,"Will admits his mistake,",process,01:48:30,01:49:14
+Notting Hill,"and everyone races across London to find Anna, who is holding a press conference at the Savoy Hotel.",stative_event,01:49:50,01:52:50
+Notting Hill,Will arrives just as her publicist answers a reporter's question and announces that Anna is taking a year off and is leaving the UK that night.,process,01:53:46,01:54:00
+Notting Hill,"A reporter asks about the embarrassing photographs taken at Will's flat,",process,01:54:43,01:54:44
+Notting Hill,"and Anna says they are just friends. Will, again pretending to be a Horse & Hound reporter,",process,01:54:53,01:55:04
+Notting Hill,"Will, again pretending to be a Horse & Hound reporter,",process,01:56:27,01:56:27
+Notting Hill,asks her if she would consider being more than friends if Thacker begged her forgiveness.,process,01:55:14,01:55:19
+Notting Hill,"She says she would,",process,01:55:24,01:55:25
+Notting Hill,"then requests that the reporter repeat the 
+question ""How long do you plan to stay in England?""",process,01:55:36,01:56:41
+Notting Hill,"Smiling, she answers ""indefinitely"".",process,01:56:51,01:56:52
+Notting Hill,Anna and Will marry,process,01:57:57,01:58:35
+Notting Hill,and she is now pregnant.,change_of_state,01:59:12,01:59:42
+Notting Hill,They spend time in the private park that they had visited on their first date.,stative_event,01:59:00,01:59:44
+The Social Network,"On October 28, 2003, 19-year-old Harvard University sophomore Mark Zuckerberg is dumped by his girlfriend, Erica Albright.",change_of_state,00:03:42,00:05:28
+The Social Network,"Returning to his dorm, Zuckerberg writes an insulting post about Albright on his LiveJournal blog.",process,00:08:23,00:09:08
+The Social Network,"He creates a campus website called Facemash by hacking into college databases to steal photos of female students,",process,00:09:32,00:10:12
+The Social Network,then allowing site visitors to rate their attractiveness.,process,00:12:34,00:15:12
+The Social Network,"After traffic to the site crashes parts of Harvard's computer network,",process,00:15:45,00:16:18
+The Social Network,Zuckerberg is given six months of academic probation.,change_of_state,00:16:20,00:20:21
+The Social Network,"However, Facemash's popularity attracts the attention of twins Cameron and Tyler Winklevoss and their business partner Divya Narendra.",process,00:18:46,00:22:40
+The Social Network,"The trio invites Zuckerberg to work on Harvard Connection, a social network exclusive to Harvard students and aimed at dating.",process,00:23:12,00:24:02
+The Social Network,"Zuckerberg approaches his friend Eduardo Saverin with an idea for the Facebook, a social networking website that would be exclusive to Ivy League students.",process,00:26:40,00:28:16
+The Social Network,"Saverin provides $1,000 in seed funding, allowing Zuckerberg to build the website,",process,00:27:20,00:31:45
+The Social Network,which quickly becomes popular.,change_of_state,00:38:46,00:38:55
+The Social Network,"When they learn of the Facebook, the Winklevoss twins and Narendra are incensed,",stative_event,00:39:33,00:41:15
+The Social Network,believing that Zuckerberg stole their idea while misleading them by stalling development on the Harvard Connection website.,stative_event,00:39:00,00:39:43
+The Social Network,"They raise their complaint with Harvard President Larry Summers,who is dismissive and sees no value in disciplinary action on the Facebook or Zuckerberg.",process,01:00:00,01:03:53
+The Social Network,who is dismissive,stative_event,01:02:17,01:02:37
+The Social Network,and sees no value in disciplinary action on the Facebook or Zuckerberg.,non_event,01:02:39,01:03:12
+The Social Network,"Saverin and Zuckerberg meet fellow student Christy Lee,",process,00:45:10,00:45:20
+The Social Network,"who asks them to ""Facebook me,"" a phrase that impresses them.",process,00:45:28,00:45:30
+The Social Network,"As the Facebook grows in popularity, Zuckerberg expands the network to Yale University, Columbia University, and Stanford University.",process,00:53:40,00:53:55
+The Social Network,"Lee arranges for Saverin and Zuckerberg to meet Napster co-founder Sean Parker,",process,01:06:05,01:05:58
+The Social Network,"who presents a ""billion-dollar"" vision for the company.",non_event,01:10:00,01:10:09
+The Social Network,"Zuckerberg is impressed,",non_event,01:10:50,01:11:12
+The Social Network,but Saverin dismisses him as paranoid and delusional.,stative_event,01:08:11,01:09:08
+The Social Network,Parker also suggests renaming the site to Facebook.,process,01:11:05,01:11:07
+The Social Network,"Later, Zuckerberg relocates the company to Palo Alto on Parker's advice;",process,01:14:53,01:15:18
+The Social Network,Saverin remains in New York to work on business development.,stative_event,01:20:27,01:29:04
+The Social Network,"Parker later moves into the house that Zuckerberg is using as a base of operations and becomes more involved with the company, much to Saverin's annoyance.",process,01:29:05,01:31:03
+The Social Network,"While competing in the 2004 Henley Royal Regatta for Harvard against the Hollandia Roeiclub, the Winklevoss twins discover that Facebook has expanded to Europe with Oxford, Cambridge and LSE,",process,01:27:14,01:27:32
+The Social Network,and decide to sue the company for intellectual property theft.,process,01:28:40,01:28:51
+The Social Network,"Meanwhile, Saverin objects to Parker making business decisions for Facebook",process,01:31:02,01:31:50
+The Social Network,and freezes the company's bank account in the resulting dispute.,process,01:33:24,01:33:27
+The Social Network,"He relents when Zuckerberg reveals that they have secured $500,000 from angel investor Peter Thiel.",change_of_state,01:37:20,01:37:45
+The Social Network,Saverin becomes enraged when he discovers that the new investment deal allows his share of Facebook to be diluted from 34% to 0.03% while maintaining the ownership percentage of all other parties.,change_of_state,01:38:35,01:42:51
+The Social Network,"He confronts Zuckerberg and Parker,",process,01:44:00,01:44:28
+The Social Network,and Saverin vows to sue Zuckerberg before being ejected from the building.,process,01:44:38,01:45:00
+The Social Network,Saverin's name is removed from the masthead as co-founder and CFO.,change_of_state,01:43:49,01:43:52
+The Social Network,"Later, Parker is apprehended for cocaine possession at a party celebrating 1 million users.",process,01:49:26,01:50:00
+The Social Network,"He attempts to blame Saverin,",process,01:49:00,01:50:39
+The Social Network,"so Zuckerberg cuts ties with him, telling him to go home.",process,01:50:57,01:50:59
+The Social Network,"In separate depositions, the Winklevoss twins claim that Zuckerberg stole their idea,",process,00:34:28,00:34:45
+The Social Network,while Saverin claims his shares of Facebook were unfairly diluted when the company was incorporated.,process,01:43:26,01:43:40
+The Social Network,"Marylin Delpy, a junior lawyer for the defense, informs Zuckerberg that they will settle with Saverin since the sordid details of Facebook's founding and Zuckerberg's callous attitude will make him unsympathetic to a jury.",process,01:52:09,01:53:20
+The Social Network,"Alone, Zuckerberg sends a Facebook friend request to Albright and repeatedly refreshes the page.",process,01:54:10,01:55:30
+The Notebook,"At a modern-day nursing home, an elderly man named Duke reads a romantic story from his notebook to a female patient,",process,00:04:54,00:05:10
+The Notebook,"poor lumber mill worker Noah Calhoun sees 17-year-old heiress Allison ""Allie"" Hamilton, who is spending the summer in town with her parents.",change_of_state,00:05:28,00:05:47
+The Notebook,He pursues her,process,00:05:58,00:06:15
+The Notebook,they begin a summer romance.,process,00:07:30,00:19:10
+The Notebook,"Allie goes to Noah’shouse and meets his father,?",process,00:20:20,00:20:42
+The Notebook,who immediately likes her.,process,00:20:43,00:22:10
+The Notebook,"Noah is invited to a luncheon at Allie's house by her parents,",process,00:26:10,00:26:17
+The Notebook,but they are unimpressed with Noah,non_event,00:26:20,00:26:39
+The Notebook,because he doesn't fit in with the other wealthy attendees.?,stative_event,00:27:00,00:27:34
+The Notebook,Noah takes Allie to an abandoned house called The Windsor Plantation.,process,00:28:53,00:29:59
+The Notebook,He tells her he intends to buy and restore the house for themselves.,process,00:30:05,00:30:11
+The Notebook,they share a romantic moment?,process,00:31:50,00:31:10
+The Notebook,Allie asks Noah to make love to her for the first time.,process,00:32:26,00:34:19
+The Notebook,But then she grows nervous and starts rambling.,process,00:34:25,00:35:42
+The Notebook,"They are interrupted by Noah's friend,",change_of_state,00:36:42,00:36:45
+The Notebook,Fin who informs them that Allie's parents have the police out looking for her.,process,00:36:47,00:36:50
+The Notebook,"When Allie and Noah return to her parents' mansion,?",process,00:36:59,00:37:00
+The Notebook,Anne makes it clear that they do not approve of the relationship and forbid her from seeing him.,process,00:38:15,00:38:25
+The Notebook,"Overhearing all the insults and how Allie's mother describes him as trash,",process,00:38:30,00:38:36
+The Notebook,Noah leaves and Allie goes after him.,process,00:39:42,00:40:06
+The Notebook,An argument ensues,change_of_state,00:40:30,00:40:50
+The Notebook,Allie breaks up with Noah,change_of_state,00:41:38,00:42:00
+The Notebook,she immediately regrets it and tries to stop him.,process,00:42:45,00:42:57
+The Notebook,Anne announces that the family would be returning home to Charleston,process,00:43:33,00:43:50
+The Notebook,they would be leaving in a while.,change_of_state,00:44:00,00:44:05
+The Notebook,Allie tries to find Noah at work but fails.,process,00:44:20,00:44:30
+The Notebook,So she asks Fin to tell him she loves him.?,process,00:44:35,00:44:44
+The Notebook,Noah rushes to Allie's house after Fin gives him the message,process,00:46:12,00:46:24
+The Notebook,but finds the gates locked.,process,00:46:33,00:46:35
+The Notebook,Noah writes a letter to Allie every day for a year,process,00:46:57,00:47:59
+The Notebook,but Allie's mother hides them.,process,00:47:03,00:47:10
+The Notebook,"all of Noah's 365 letters go unanswered,",non_event,00:47:16,00:47:21
+The Notebook,Noah stops writing and decides to move on.,change_of_state,00:47:31,00:47:35
+The Notebook,"He enlists with Fin to fight in World War II,",process,00:47:40,00:47:47
+The Notebook,where Fin loses his life in battle.,process,00:48:28,00:48:49
+The Notebook,"Allie volunteers as a nurse in a hospital for wounded soldiers where she meets Captain Lon Hammond Jr., a young lawyer who comes from old Southern money.",process,00:49:02,00:50:40
+The Notebook,"After a few years, the two become engaged, much to the delight of Allie's parents.?",change_of_state,00:51:34,00:52:45
+The Notebook,Noah returns from the war,process,00:54:12,00:54:22
+The Notebook,find that his father had sold their home so Noah could afford to buy The Windsor Plantation.?,process,00:54:37,00:54:53
+The Notebook,"He convinces himself that if he restores the house, Allie will find her way back to him.",non_event,00:55:37,00:57:27
+The Notebook,"Despite completing the house,",non_event,00:58:41,00:58:50
+The Notebook,Noah restrains from selling it to any buyers.?,process,00:58:52,00:58:55
+The Notebook,"While Allie tries on her wedding dress,",process,01:01:44,01:01:50
+The Notebook,she sees a photo of Noah in a newspaper where he stands smiling in front of the renovated house.,process,01:02:22,01:02:00
+The Notebook,She faints.,change_of_state,01:02:28,01:02:30
+The Notebook,Allie is overwhelmed with the memories of summer romance and unresolved feelings for Noah,stative_event,01:02:50,01:02:58
+The Notebook,and seeks permission from Lon to take a solo trip before the wedding.,process,01:04:13,01:04:51
+The Notebook,She returns to Seabrook to find Noah living in their dream house.,process,01:05:22,01:05:40
+The Notebook,The two rekindle and consummate their relationship.,change_of_state,01:09:44,01:12:16
+The Notebook,Allie learns about the letters Noah had written to her,process,01:21:08,01:21:11
+The Notebook,she realizes she never got them.,stative_event,01:21:22,01:21:24
+The Notebook,Allie's mother appears on Noah's doorstep to warn Allie that Lon has followed her to Seabrook.,process,01:29:52,01:30:14
+The Notebook,"She also reveals that like her daughter, she once loved a lower-class young man in Seabrook and still thinks about him and how their lives might have been different had she chosen better.",process,01:31:40,01:32:50
+The Notebook,She hands over Noah's letters to Allie,process,01:35:00,01:35:05
+The Notebook,and tells her she hopes Allie makes the right choice.,process,01:35:11,01:35:14
+The Notebook,Noah and Allie get into a heated argument?,change_of_state,01:36:41,01:37:37
+The Notebook,where the former forces the latter to think about what she wants and to stick by it no matter how hard it is.?,non_event,01:38:10,01:39:29
+The Notebook,Allie makes the difficult choice to drive back to her hotel and confess her infidelity to Lon.,change_of_state,01:43:55,01:44:05
+The Notebook,Lon says he still loves her and wants her back for himself,process,01:44:18,01:44:55
+The Notebook,"but even though she knows she shouldn't leave Lon,",stative_event,01:45:05,01:45:06
+The Notebook,she decides to follow her heart and returns to Noah.,change_of_state,01:45:34,01:45:49
+The Notebook,"In the present, the elderly woman listening to the story is revealed to be Allie, now suffering from dementia.?",stative_event,01:46:40,01:08:40
+The Notebook,"Noah who now goes by Duke so as not to startle her in her disoriented state, is her husband.",non_event,01:50:52,01:50:04
+The Notebook,Allie had written a journal detailing their romance and life together so he could read it to her to help her come back to him.,process,01:50:54,
+The Notebook,Noah has kept the promise by reading to her almost every day.,process,NAN,NAN
+The Notebook,"when he is almost at the end of the story, reading from the notebook,",non_event,01:46:15,01:46:17
+The Notebook,she briefly recognizes him.,change_of_state,01:46:32,01:46:33
+The Notebook,She asks how long they have before she forgets again and Duke tells her they have no more than five minutes.,process,01:46:46,01:46:48
+The Notebook,"They dance to their song, ""I'll Be Seeing You"",",process,01:47:20,01:47:22
+The Notebook,and she asks him about their kids.,process,01:47:42,01:47:50
+The Notebook,But Allie's dementia quickly relapses?,change_of_state,01:49:10,01:49:20
+The Notebook,she panics to see a stranger touching her.,change_of_state,01:49:25,01:49:27
+The Notebook,The medical personnel sedate her to control her hysterical reaction.,process,01:49:39,01:50:07
+The Notebook,Duke has a heart attack and is treated in the nursing home while Allie is taken to rest in the dementia ward.,process,01:51:26,01:52:12
+The Notebook,"Upon recovering and despite not being allowed in,?",process,01:52:42,01:53:15
+The Notebook,Duke goes to Allie's room in the night and watches her sleep.?,process,01:54:14,01:54:29
+The Notebook,She instantly recognizes him again.,change_of_state,01:54:45,01:54:56
+The Notebook,"They kiss,",process,01:56:41,01:56:45
+The Notebook,hold hands and fall asleep.?,process,01:57:04,01:57:20
+The Notebook,"the nurse discovers both of them dead in their sleep, still holding hands.?",non_event,01:57:22,01:57:53
+The Matrix,"At an abandoned hotel, a police squad corners Trinity",process,00:01:41,00:03:00
+The Matrix,who overpowers them with superhuman abilities,change_of_state,00:03:05,00:03:29
+The Matrix,"She flees, pursued by the police and a group of suited Agents capable of similar superhuman feats",process,00:04:11,00:05:35
+The Matrix,She answers a ringing public telephone,process,00:05:47,00:05:49
+The Matrix,vanishes,change_of_state,00:05:52,00:05:54
+The Matrix,"Computer programmer Thomas Anderson, known by his hacking alias “Neo”, is puzzled by repeated online encounters with the phrase “the Matrix”",stative_event,00:07:14,00:07:35
+The Matrix,Trinity contacts him,process,00:10:11,00:10:54
+The Matrix,tells him a man named Morpheus has the answers Neo seeks,process,00:11:06,00:11:30
+The Matrix,"A team of Agents and police, led by Agent Smith, arrives at Neo’s workplace in search of him",non_event,00:14:12,00:14:20
+The Matrix,Morpheus attempts to guide Neo to safety,non_event,00:14:26,00:16:00
+The Matrix,Neo surrenders rather than risk a dangerous escape,process,00:16:50,00:17:30
+The Matrix,The Agents offer to erase Neo’s criminal record in exchange for his help with locating Morpheus,process,00:19:31,00:19:33
+The Matrix,who they claim is a terrorist,stative_event,00:19:40,00:19:42
+The Matrix,Neo refuses to cooperate,process,00:19:56,00:19:57
+The Matrix,they fuse his mouth shut,process,00:20:35,00:20:40
+The Matrix,pin him down,process,00:20:54,00:21:00
+The Matrix,implant a robotic “bug” in his abdomen,change_of_state,00:21:01,00:21:31
+The Matrix,Neo wakes up from what he believes to be a nightmare,change_of_state,00:21:37,00:21:48
+The Matrix,Neo is taken by Trinity to meet Morpheus,process,00:22:40,00:22:49
+The Matrix,she removes the bug from Neo,change_of_state,00:23:25,00:24:54
+The Matrix,Morpheus offers Neo a choice between two pills,process,00:28:53,00:28:54
+The Matrix,"Taking the red pill, which will reveal the truth about the Matrix, or the blue, which will make Neo forget everything and return to his former life",non_event,00:29:11,00:29:15
+The Matrix,Neo takes the red pill,process,00:29:44,00:29:45
+The Matrix,his reality begins to distort,change_of_state,00:30:51,00:31:19
+The Matrix,"awakening in a liquid-filled pod among countless other pods, containing other humans",change_of_state,00:32:27,00:32:43
+The Matrix,"He is then brought aboard Morpheus’s flying ship, the Nebuchadnezzar",process,00:37:51,00:38:10
+The Matrix,Neo recuperates from a lifetime of physical inactivity in the pod,change_of_state,00:36:00,00:36:50
+The Matrix,Morpheus explains the situation,process,00:40:22,00:40:59
+The Matrix,"In the early 21st century, a war broke out between humanity and intelligent machines",non_event,00:41:29,00:41:40
+The Matrix,humans blocked the machines’ access to solar energy,process,00:41:50,00:41:55
+The Matrix,"the machines responded by enslaving humankind and harvesting their bioelectric power while keeping their minds pacified in the Matrix, a shared simulated reality modeled on the world as it was in 1999",stative_event,00:42:57,00:43:36
+The Matrix,"In the years following, the remaining free humans took refuge in the underground city of Zion",non_event,00:47:10,00:47:50
+The Matrix,Morpheus and his crew are a group of rebels who hack into the Matrix to “unplug” enslaved humans and recruit them,stative_event,00:56:30,00:57:00
+The Matrix,their understanding of the Matrix’s simulated nature allows them to bend its physical laws,non_event,00:49:27,00:55:00
+The Matrix,Morpheus warns Neo that death within the Matrix kills the physical body too,non_event,00:55:35,00:55:40
+The Matrix,"explains that the Agents are sentient programs that eliminate threats to the system, while machines called Sentinels eliminate rebels in the real world",non_event,00:57:39,00:58:10
+The Matrix,"Neo’s prowess during virtual training cements Morpheus’s belief that Neo is “the One”, a human prophesied to free humankind",process,00:58:23,00:58:55
+The Matrix,"The group enters the Matrix to visit the Oracle, a prophet-like program who predicted that the One would emerge",stative_event,01:07:37,01:10:41
+The Matrix,She implies to Neo that he is not the One,process,01:14:03,01:15:21
+The Matrix,warns that he will have to choose between Morpheus’s life and his own,process,01:15:33,01:16:44
+The Matrix,they can leave the Matrix,non_event,01:18:15,01:18:41
+The Matrix,Agents and police ambush the group,process,01:19:45,01:19:55
+The Matrix,"tipped off by Cypher, a disgruntled crew member who has betrayed Morpheus in exchange for a deal to be plugged back into the Matrix to live a comfortable life",process,01:03:34,01:04:52
+The Matrix,Morpheus fights Smith,process,01:22:58,01:24:48
+The Matrix,is captured,process,01:24:50,01:24:55
+The Matrix,Cypher exits the Matrix,change_of_state,01:26:10,01:26:15
+The Matrix,murders the other crew members,change_of_state,01:26:28,01:26:42
+The Matrix,they lie unconscious,stative_event,01:26:48,01:26:49
+The Matrix,Cypher can kill Neo and Trinity,non_event,01:27:02,01:30:16
+The Matrix,crew member Tank regains consciousness,change_of_state,01:30:42,01:30:44
+The Matrix,kills him before pulling Neo and Trinity from the Matrix,change_of_state,01:30:52,01:30:55
+The Matrix,The Agents interrogate Morpheus to learn his access codes to the mainframe computer in Zion,process,01:32:01,01:33:53
+The Matrix,which would allow them to destroy it,non_event,01:33:58,01:34:00
+The Matrix,Neo resolves to return to the Matrix to rescue Morpheus,non_event,01:37:20,01:37:24
+The Matrix,the Oracle prophesied,process,01:36:15,01:36:21
+The Matrix,Trinity insists she accompany him,process,01:37:23,01:37:24
+The Matrix,rescuing Morpheus,process,01:38:25,01:38:26
+The Matrix,Neo gains confidence in his abilities,process,01:38:50,01:39:10
+The Matrix,performing feats comparable to those of the Agents,process,01:41:55,01:44:21
+The Matrix,Morpheus and Trinity safely exit the Matrix,change_of_state,01:52:24,01:54:16
+The Matrix,Smith ambushes,process,01:54:17,01:54:42
+The Matrix,kills Neo,change_of_state,02:02:45,02:03:18
+The Matrix,a group of Sentinels attack the Nebuchadnezzar,process,02:03:53,02:03:56
+The Matrix,Trinity confesses her love for Neo,process,02:04:00,02:04:05
+The Matrix,says the Oracle told her she would fall in love with the One,process,02:04:22,02:04:31
+The Matrix,"Neo is revived, with newfound abilities to perceive and control the Matrix",change_of_state,02:04:58,02:05:11
+The Matrix,"he easily defeats Smith, prompting the other Agents to flee",process,02:06:20,02:07:00
+The Matrix,he leaves the Matrix,change_of_state,02:07:17,02:07:18
+The Matrix,the ship’s electromagnetic pulse disables the Sentinels,process,02:07:10,02:07:30
+The Matrix,"Back in the Matrix, Neo makes a telephone call, promising the machines that he will show their prisoners “a world where anything is possible.”",process,02:08:05,02:08:36
+The Matrix,He hangs up,process,02:08:46,02:08:47
+The Matrix,flies away,process,02:09:10,02:09:22
