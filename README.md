@@ -40,6 +40,5 @@ Ensure you have the following installed:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
+The code in this project is licensed under the MIT License - see the [LICENSE](https://github.com/arisef77/Movie-Review-Event-Similarity/blob/main/LICENCE.md) file for details.
 The user reviews scraped from IMDb are subject to IMDb's [Conditions of Use](https://www.imdb.com/conditions).
